@@ -2,7 +2,7 @@
 
 *Idioma Galego (GAL)*
 
-### Temas
+### Temas - SEAD
 
 - Unidade 1: Confidencialidade, Integridade, Disponibilidades e Vulnerabilidades
 - Unidade 2: Seguridade Pasiva (Backup/Recovery)
