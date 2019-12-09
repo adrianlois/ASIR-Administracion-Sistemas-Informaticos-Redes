@@ -2,7 +2,7 @@
 
 *Idioma Galego (GAL)*
 
-### Temas
+### Temas SERI
 
 - Unidade 1: DHCP
 - Unidade 2: DNS
