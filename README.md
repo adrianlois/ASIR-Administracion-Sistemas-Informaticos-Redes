@@ -1,7 +1,7 @@
 # ASIR - Administración de Sistemas Informaticos en Red
 Trabajos finales por unidad del ciclo superior de Administración de Sistemas en Red. 
 
-*Idioma Galego (GAL)*
+*Idioma: Galego (GAL)*
 
 ## Módulos/Asignaturas
 
